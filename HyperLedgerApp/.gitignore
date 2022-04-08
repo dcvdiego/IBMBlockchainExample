@@ -79,3 +79,6 @@ typings/
 # Compiled TypeScript files
 dist
 
+# Sensitive files created from IBM Blockchain VSCode Extension
+connection.json
+Org1Wallet
